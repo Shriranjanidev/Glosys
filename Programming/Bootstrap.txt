@@ -1,0 +1,7 @@
+Concepts studied:
+Grids
+Tables
+Buttons
+Glyphicons
+Progress Bar
+Tabs/Pills
