@@ -3,5 +3,11 @@ Grids
 Tables
 Buttons
 Glyphicons
+Navigation Bars
+Carousel Plugin
+Scrollspy Plugin
 Progress Bar
 Tabs/Pills
+
+Material Design for Bootstrap:
+MD5
